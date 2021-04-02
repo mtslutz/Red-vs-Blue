@@ -1,5 +1,5 @@
-# RedvsBlue
-Full Red vs Blue activity performing both penetration testing and security monitoring.
+# Red vs Blue
+Full Red Team vs Blue Team activity performing roles as both penetration tester and SOC analyst.
 
 The activities performed in this exercise are intended to replicate a Red vs Blue engagement. As a small group we initially played the role of a blackhat hacker gaining unauthorized access to a company web server and utilizing a PHP reverse shell to establish a Meterpreter session allowing for exfiltration of company data. We then performed the role of a Blue Team analyzing the Kibana logs to summarize the incident before making system hardening recommendations. By performing all of the roles, this exercise gave us good insight into both offensive and defensive security roles.
 
